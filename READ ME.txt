@@ -1,0 +1,7 @@
+Install Python 
+Click the Add to Environment check box in the installation page 
+Install it universally for all users 
+
+once installation is over 
+click the Package_installer.bat file and you are good to go 
+hehhehe
